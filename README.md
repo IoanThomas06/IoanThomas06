@@ -9,4 +9,5 @@ Languages familiar with (scale 1 to 5, 1 being familiar enough to understand cod
   - Haskell - 2
   - R - 1
   - Python - 1
+  - Java - 1
   
